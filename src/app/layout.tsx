@@ -18,10 +18,10 @@ export const metadata = {
     title: "Coupy",
     description:
       "Open-source tool to generate short links. With a user-friendly interface and robust functionality, Coupy makes it easy to share and manage links.",
-    url: "https://yourwebsite.com", // Remplacez par l'URL de votre site
+    url: "https://coupy-tech.vercel.app/", // Remplacez par l'URL de votre site
     images: [
       {
-        url: "https://github.com/kevinkenfack/Coupy.tech/blob/main/public/images/screenshot.png", // Chemin d'accès à votre image OG
+        url: "https://pro-portfolio-roan.vercel.app/images/og-image.jpg", // Chemin d'accès à votre image OG
         width: 1200, // Largeur de l'image
         height: 630, // Hauteur de l'image
         alt: "socials previous", // Texte alternatif pour l'image
