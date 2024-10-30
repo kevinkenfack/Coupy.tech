@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <footer className="mx-auto w-full max-w-5xl text-white/80 p-6 flex flex-col items-center">
       <div className="flex justify-between w-full">
-        <span>Built by</span>
+        <span className="mr-2">Built by</span> {/* Ajout d'une marge droite pour un léger espacement */}
         <Link
           href="https://kevinkenfack.com"
           target="_blank"
