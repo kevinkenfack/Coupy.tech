@@ -12,6 +12,7 @@ export const Footer = () => {
         >
           Kevin Kenfack ❤️
         </Link>
+        <br/>
       </div>
       <div className="mt-4 flex justify-center space-x-2">
         <Link
