@@ -11,7 +11,7 @@ export const Footer = () => {
       >
         Kevin Kenfack ❤️.
       </Link>
-
+        <br/>
       <Link
         href="/privacy"
         target="_blank"
@@ -19,7 +19,7 @@ export const Footer = () => {
       >
         Privacy Policy
       </Link>
-
+        <br/>
       <Link
         href="/terms"
         target="_blank"
