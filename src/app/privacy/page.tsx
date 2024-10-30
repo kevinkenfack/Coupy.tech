@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
-      <h1>Privacy Policy</h1>
+      <strong><h1 font-size="20px">Privacy Policy</h1></strong><br/>
       <p>At Coupy, we value your privacy and are committed to protecting your personal information.</p>
       <h2>1. Information We Collect</h2>
       <p>We may collect certain information when you use our services, including IP addresses and browser information.</p>

@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
-      <h1>Terms of Service</h1>
+      <strong><h1 font-size="20px">Terms of Service</h1></strong> <br/>
       <p>Welcome to Coupy, your link shortener. Please read the following terms carefully before using our service.</p>
       <h2>1. Acceptance of Terms</h2>
       <p>By accessing or using Coupy, you agree to be bound by these terms. If you disagree with any part, you may not use the service.</p>
