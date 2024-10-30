@@ -145,7 +145,7 @@ export const CustomLinkForm = ({
               <FormLabel>Destination URL</FormLabel>
               <FormControl>
                 <Input
-                  placeholder="https://github.com/mehrabmp/cut-it"
+                  placeholder="https://kevinkenfack.com"
                   {...field}
                 />
               </FormControl>

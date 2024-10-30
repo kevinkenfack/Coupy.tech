@@ -23,7 +23,7 @@ export const Header = () => {
           className="text-muted-foreground transition-colors hover:text-foreground"
           asChild
         >
-          <Link href="https://github.com/mehrabmp/cut-it" target="_blank">
+          <Link href="https://github.com/kevinkenfack/Coupy.tech" target="_blank">
             <Icons.github className={iconVariants({ size: "lg" })} />
             <span className="sr-only">github repository</span>
           </Link>
