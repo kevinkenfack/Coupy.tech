@@ -2,32 +2,31 @@ import Link from "next/link";
 
 export const Footer = () => {
   return (
-    <footer className="mx-auto w-full max-w-5xl text-white/80 p-6 flex flex-col items-center">
-      <div className="flex justify-between w-full">
-        <span className="mr-2">Built by</span> {/* Ajout d'une marge droite pour un léger espacement */}
-        <Link
-          href="https://kevinkenfack.com"
-          target="_blank"
-          className="transition-colors underline underline-offset-4 hover:text-neutral-200"
-        >
-          Kevin Kenfack ❤️.
-        </Link>
-      </div>
-      <div className="mt-4 flex justify-center space-x-2">
-        <Link
-          href="/terms"
-          className="transition-colors underline underline-offset-4 hover:text-neutral-200"
-        >
-          Terms and Conditions
-        </Link>
-        <span className="text-neutral-400">|</span>
-        <Link
-          href="/privacy"
-          className="transition-colors underline underline-offset-4 hover:text-neutral-200"
-        >
-          Privacy Policy
-        </Link>
-      </div>
+    <footer className="mx-auto w-full max-w-5xl text-white/80 p-6">
+      <span>Built by </span>
+      <Link
+        href="https://kevinkenfack.com"
+        target="_blank"
+        className="transition-colors underline underline-offset-4 hover:text-neutral-200"
+      >
+        Kevin Kenfack ❤️.
+      </Link>
+
+      <Link
+        href="/privacy"
+        target="_blank"
+        className="transition-colors underline underline-offset-4 hover:text-neutral-200"
+      >
+        Privacy Policy
+      </Link>
+
+      <Link
+        href="/terms"
+        target="_blank"
+        className="transition-colors underline underline-offset-4 hover:text-neutral-200"
+      >
+        Terms and Conditions
+      </Link>
     </footer>
   );
 };
