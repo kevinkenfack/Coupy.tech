@@ -209,7 +209,7 @@ export const CustomLinkForm = ({
               <FormLabel>Description (optional)</FormLabel>
               <FormControl>
                 <Textarea
-                  placeholder="Cut It is a free open source tool to generate short links"
+                  placeholder="Coupy is a free open source tool to generate short links"
                   className="resize-none"
                   {...field}
                 />

@@ -1,9 +1,9 @@
-# [Cut It](https://cutit.vercel.app/)
+# [Coupy](https://cutit.vercel.app/)
 
 [![Skateshop](./public/images/screenshot.png)](https://cutit.vercel.app/)
 
-Cut It is a free open source tool to generate short links
-. With a user-friendly interface and robust functionality, Cut It makes it easy to share and manage shortened links.
+Coupy is a free open source tool to generate short links
+. With a user-friendly interface and robust functionality, Coupy makes it easy to share and manage shortened links.
 
 This project inspired by [Dub](https://dub.co).
 

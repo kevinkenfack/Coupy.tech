@@ -10,9 +10,9 @@ import { Header } from "~/components/layout/header";
 import { Providers } from "~/components/providers";
 
 export const metadata = {
-  title: "Cut it",
+  title: "Coupy",
   description:
-    "Open-source tool to generate short links. With a user-friendly interface and robust functionality, Cut It makes it easy to share and manage links.",
+    "Open-source tool to generate short links. With a user-friendly interface and robust functionality, Coupy makes it easy to share and manage links.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
