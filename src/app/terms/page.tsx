@@ -1,6 +1,4 @@
-import React from 'react';
-
-export default function Terms() {
+export default function Page() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
       <h1>Terms of Service</h1>
