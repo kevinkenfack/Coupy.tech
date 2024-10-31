@@ -21,7 +21,7 @@ export const metadata = {
     url: "https://coupy-tech.vercel.app/",
     images: [
       {
-        url: "https://pro-portfolio-roan.vercel.app/images/og-image.jpg",
+        url: "https://coupy-tech.vercel.app/images/preview.png",
         width: 1200,
         height: 630,
         alt: "socials previous",
