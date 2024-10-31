@@ -13,7 +13,7 @@ export const metadata = {
   title: "Coupy",
   description:
     "Open-source tool to generate short links. With a user-friendly interface and robust functionality, Coupy makes it easy to share and manage links.",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
+  icons: [{ rel: "icon", url: "/favicon.png" }],
   openGraph: {
     title: "Coupy",
     description:
