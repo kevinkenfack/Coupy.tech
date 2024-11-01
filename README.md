@@ -1,6 +1,6 @@
-# [Coupy](https://cutit.vercel.app/)
+# [Coupy](https://coupy-tech.vercel.app/)
 
-[![Skateshop](./public/images/screenshot.png)](https://cutit.vercel.app/)
+[![Skateshop](./public/images/screenshot.png)](https://coupy-tech.vercel.app/)
 
 Coupy is a free open source tool to generate short links
 . With a user-friendly interface and robust functionality, Coupy makes it easy to share and manage shortened links.
@@ -30,7 +30,7 @@ This project inspired by [Dub](https://dub.co).
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/mehrabmp/cut-it
+   git clone https://github.com/kevinkenfack/Coupy.tech.git
    ```
 
 2. Install dependencies using pnpm
