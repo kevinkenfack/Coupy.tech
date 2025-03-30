@@ -34,7 +34,7 @@ export const Footer = () => {
         </div>
 
         <div className="mt-6 border-t border-gray-300 dark:border-gray-700 pt-4 text-center text-sm text-gray-500 dark:text-gray-400">
-          © 2024 Coupy. All rights reserved.
+          © 2025 Coupy. All rights reserved.
         </div>
       </div>
     </footer>
