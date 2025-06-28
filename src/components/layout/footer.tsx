@@ -12,7 +12,7 @@ export const Footer = () => {
         <div className="text-center space-y-4">
           <span className="text-gray-700 dark:text-gray-300">Build by&nbsp;</span>
           <Link
-            href="https://kevinkenfack.com"
+            href="https://kenfack.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold underline underline-offset-4 transition-colors hover:text-gray-500 dark:hover:text-gray-400"
